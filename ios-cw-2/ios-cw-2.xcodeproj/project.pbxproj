@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8420264227D8E77300FA968D /* ios-cw-2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-cw-2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8420264227D8E77300FA968D /* Best Track.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Best Track.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8420264527D8E77300FA968D /* ios_cw_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_cw_2App.swift; sourceTree = "<group>"; };
 		8420264727D8E77300FA968D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8420264927D8E77300FA968D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		8420264327D8E77300FA968D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8420264227D8E77300FA968D /* ios-cw-2.app */,
+				8420264227D8E77300FA968D /* Best Track.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "ios-cw-2";
 			productName = "ios-cw-2";
-			productReference = 8420264227D8E77300FA968D /* ios-cw-2.app */;
+			productReference = 8420264227D8E77300FA968D /* Best Track.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -282,7 +282,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "kuwaitcodes.ios-cw-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Best Track";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "kuwaitcodes.ios-cw-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Best Track";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
